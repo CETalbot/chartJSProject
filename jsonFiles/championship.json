@@ -1,5 +1,5 @@
-{
-	"Aston_Villa":{
+[{
+		"name": "Aston_Villa",
 		"BTP_Arrests": 3,
 		"Violent_Disorder": 4,
 		"Public_Disorder": 18,
@@ -12,8 +12,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 2
-	},
-	"Barnsley":{
+	}, {
+		"name": "Barnsley",
 		"BTP_Arrests": 1,
 		"Violent_Disorder": 3,
 		"Public_Disorder": 13,
@@ -26,8 +26,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 1,
 		"Criminal_Damage": 1
-	},
-	"Birmingham_City":{
+	},{
+		"name":"Birmingham_City",
 		"BTP_Arrests": 3,
 		"Violent_Disorder": 9,
 		"Public_Disorder": 23,
@@ -40,8 +40,8 @@
 		"Possession_Of_Pyrotechnics": 7,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 1
-	},
-	"Blackburn_Rovers":{
+	},{
+		"name":"Blackburn_Rovers",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 2,
 		"Public_Disorder": 2,
@@ -54,8 +54,8 @@
 		"Possession_Of_Pyrotechnics": 3,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-	"Brentford":{
+	},{
+		"name":"Brentford",
 		"BTP_Arrests": 5,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 8,
@@ -68,8 +68,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-	"Brighton_&_Hove_Albion":{
+	},{
+		"name":"Brighton_&_Hove_Albion",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 4,
 		"Public_Disorder": 5,
@@ -82,8 +82,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 1,
 		"Criminal_Damage": 0
-	},
-	"Bristol_City":{
+	},{
+		"name":"Bristol_City",
 		"BTP_Arrests": 3,
 		"Violent_Disorder": 10,
 		"Public_Disorder": 17,
@@ -96,8 +96,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 1,
 		"Criminal_Damage": 0
-	},
-	"Cardiff_City":{
+	},{
+		"name":"Cardiff_City",
 		"BTP_Arrests": 1,
 		"Violent_Disorder": 3,
 		"Public_Disorder": 3,
@@ -110,8 +110,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-	"Derby_County":{
+	},{
+		"name":"Derby_County",
 		"BTP_Arrests": 13,
 		"Violent_Disorder": 3,
 		"Public_Disorder": 15,
@@ -124,8 +124,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 1
-	},
-	"Fulham":{
+	},{
+		"name":"Fulham",
 		"BTP_Arrests": 4,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 4,
@@ -138,8 +138,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-	"Huddersfield_Town":{
+	},{
+		"name":"Huddersfield_Town",
 		"BTP_Arrests": 3,
 		"Violent_Disorder": 4,
 		"Public_Disorder": 4,
@@ -152,8 +152,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 3
-	},
-	"Ipswich_Town":{
+	},{
+		"name":"Ipswich_Town",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 3,
 		"Public_Disorder": 3,
@@ -166,8 +166,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-	"Leeds_United":{
+	},{
+		"name":"Leeds_United",
 		"BTP_Arrests": 21,
 		"Violent_Disorder": 9,
 		"Public_Disorder": 24,
@@ -180,8 +180,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 2
-	},
-	"Newcastle_United":{
+	},{
+		"name":"Newcastle_United",
 		"BTP_Arrests": 2,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 8,
@@ -194,8 +194,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 2
-	},
-	"Norwich_City":{
+	},{
+		"name":"Norwich_City",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 2,
 		"Public_Disorder": 6,
@@ -208,8 +208,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-		"Nottingham_Forrest":{
+	},{
+		"name":"Nottingham_Forrest",
 		"BTP_Arrests": 1,
 		"Violent_Disorder": 2,
 		"Public_Disorder": 6,
@@ -222,8 +222,8 @@
 		"Possession_Of_Pyrotechnics": 4,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-		"Preston_North_End":{
+	},{
+		"name":"Preston_North_End",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 3,
@@ -236,8 +236,8 @@
 		"Possession_Of_Pyrotechnics": 4,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 1
-	},
-		"Queens_Park_Rangers":{
+	},{
+		"name":"Queens_Park_Rangers",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 3,
 		"Public_Disorder": 2,
@@ -250,8 +250,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 1,
 		"Criminal_Damage": 0
-	},
-		"Reading":{
+	},{
+		"name":"Reading",
 		"BTP_Arrests": 6,
 		"Violent_Disorder": 0,
 		"Public_Disorder": 10,
@@ -264,8 +264,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-		"Rotherham_United":{
+	},{
+		"name":"Rotherham_United",
 		"BTP_Arrests": 1,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 3,
@@ -278,8 +278,8 @@
 		"Possession_Of_Pyrotechnics": 0,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-		"Sheffield_Wednesday":{
+	},{
+		"name":"Sheffield_Wednesday",
 		"BTP_Arrests": 1,
 		"Violent_Disorder": 2,
 		"Public_Disorder": 3,
@@ -292,8 +292,8 @@
 		"Possession_Of_Pyrotechnics": 2,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 1
-	},
-		"Wigan_Athletic":{
+	},{
+		"name":"Wigan_Athletic",
 		"BTP_Arrests": 0,
 		"Violent_Disorder": 1,
 		"Public_Disorder": 1,
@@ -306,8 +306,8 @@
 		"Possession_Of_Pyrotechnics": 1,
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
-	},
-		"Wolverhampton_Wanderers":{
+	},{
+		"name":"Wolverhampton_Wanderers",
 		"BTP_Arrests": 2,
 		"Violent_Disorder": 5,
 		"Public_Disorder": 4,
@@ -321,4 +321,4 @@
 		"Breach_Of_Banning_Order": 0,
 		"Criminal_Damage": 0
 	}
-}
+]
