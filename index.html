@@ -3,19 +3,26 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<!-- Link to the jquery file -->
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  	<!-- Link to the CSS Stylesheet -->
 	<link rel="stylesheet" type="text/css" href="cssFiles/stylesheet.css">
+	<!-- Link to the chart.js javascript file -->
 	<script type="text/javascript" src="jsFiles/Chart.min.js"></script>
+	<!-- Link to the javascript file -->
 	<script type="text/javascript" src="jsFiles/lineChart.js"></script>
 </head>
 <body>
-	<img src="img/dinosaur.jpg" style="width:30px; height:30px; float:right;">
+	<!-- Title of the webpage -->
 	<h1>Data Visualisation Piece</h1>
-	<h3>Data used with the data visualisation pieces provided from the Home Office and is used under the Open Government Licence, Website: <a href="https://data.gov.uk/dataset/statistics_on_football-related_arrests_and_football_banning_orders ">DATA.GOV.UK</a> </h3>
-	
+	<!-- Explains where the data is from and the link to the data source -->
+	<p>Data used with the data visualisation pieces provided from the Home Office and is used under the Open Government Licence, Website: <a href="https://data.gov.uk/dataset/statistics_on_football-related_arrests_and_football_banning_orders ">DATA.GOV.UK</a> </p>
+	<!-- canvas area for the line chart to display on the html page in the browser -->
 	<canvas id="lineChart"></canvas>
+	<!-- Button to displays premier league data in the line chart-->
 	<button id="premier" type="button">Premier League</button>
+	<!--Button to displays championship data in the line chart -->
 	<button id="championship" type="button">Championship</button>
 </body>
 </html>
